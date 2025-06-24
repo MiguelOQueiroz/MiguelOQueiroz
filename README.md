@@ -20,6 +20,7 @@ Desde O Dia Em Que Descobri O Código Como Algo Tangível, Que Existia E Que Fun
 - Banco De Dados:
 
   ![SQLServer](https://img.shields.io/badge/MSSQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 - Linguagens:
 
