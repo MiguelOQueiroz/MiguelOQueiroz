@@ -25,7 +25,7 @@ Desde O Dia Em Que Descobri O Código Como Algo Tangível, Que Existia E Que Fun
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-  ![C#](https://img.shields.io/badge/C#-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![C#](https://img.shields.io/badge/C-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## Informações Extras
 
