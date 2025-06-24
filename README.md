@@ -15,7 +15,7 @@ Desde O Dia Em Que Descobri O Código Como Algo Tangível, Que Existia E Que Fun
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Dotnet](https://img.shields.io/badge/Dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![Aspnet](https://img.shields.io/badge/Aspnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Aspnet](https://img.shields.io/badge/Aspnet-3178C6?style=for-the-badge&logo=dotnet&logoColor=white)
 
 - Banco De Dados:
 
