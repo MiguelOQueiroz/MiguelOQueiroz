@@ -32,7 +32,11 @@ Desde O Dia Em Que Descobri O Código Como Algo Tangível, Que Existia E Que Fun
   ![C#](https://img.shields.io/badge/CSharp-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## Informações Extras
+## Projetos
+
+- ![Vision](https://visionweb5.netlify.app): Um projeto de blog compartilhado simples que fiz com alguns amigos!
+
+## Sobre mim
 
 - Já Fiz Um Curso De Ciência da Computação No Passado.
 - Falo Inglês Relativamente Bem!
