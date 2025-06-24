@@ -34,7 +34,7 @@ Desde O Dia Em Que Descobri O Código Como Algo Tangível, Que Existia E Que Fun
 
 ## Projetos
 
-- ![Vision](https://visionweb5.netlify.app): Um projeto de blog compartilhado simples que fiz com alguns amigos!
+- [Vision](https://visionweb5.netlify.app): Um projeto de blog compartilhado simples que fiz com alguns amigos!
 
 ## Sobre mim
 
