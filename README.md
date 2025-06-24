@@ -9,13 +9,14 @@ Desde O Dia Em Que Descobri O Código Como Algo Tangível, Que Existia E Que Fun
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 - Frameworks:
 
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Dotnet](https://img.shields.io/badge/Dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![Aspnet](https://img.shields.io/badge/Aspnet-3178C6?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![AspnetCore](https://img.shields.io/badge/Aspnet%20Core-3178C6?style=for-the-badge&logo=dotnet&logoColor=white)
 
 - Banco De Dados:
 
@@ -29,6 +30,7 @@ Desde O Dia Em Que Descobri O Código Como Algo Tangível, Que Existia E Que Fun
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/CSharp-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## Informações Extras
 
