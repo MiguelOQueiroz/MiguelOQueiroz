@@ -35,8 +35,8 @@ Desde O Dia Em Que Descobri O Código Como Algo Tangível, Que Existia E Que Fun
 ## Projetos
 
 Vision Blog: Um projeto, atualmente incompleto, de blog compartilhado simples que fiz com alguns amigos! Alguns exemplos de página:
-- [VisionWeb5](https://visionweb5.netlify.app)
-- [Vidas Secas: Análise e Resumo](https://vidassecaslivro.netlify.app)
+- [VisionWeb5](https://visionweb5.netlify.app): Criado para um projeto da aula de redes.
+- [Vidas Secas: Análise e Resumo](https://vidassecaslivro.netlify.app): Criado para um projeto da aula de geografia.
 
 ## Sobre mim
 
