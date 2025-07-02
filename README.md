@@ -40,5 +40,5 @@ Vision Blog: Um projeto, atualmente incompleto, de blog compartilhado simples qu
 
 ## Sobre mim
 
-- Já Fiz Um Curso De Ciência da Computação No Passado.
-- Falo Inglês Relativamente Bem!
+- Realizei Um Curso De Ciência da Computação Anteriormente (CC50 - O Curso De Ciência Da Computação De Harvard, No Brasil).
+- Possuo Inglês Avançado.
